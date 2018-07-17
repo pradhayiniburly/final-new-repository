@@ -20,7 +20,7 @@ public class class1 {
 	System.out.println(title);
 	Assert.assertEquals(title, "GitHub");
 	System.out.println("Testing Continues");
-	System.out.println("Testing Continues");
+	
 	}
 
 }
